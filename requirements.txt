@@ -1,0 +1,12 @@
+torch
+torchvision
+streamlit
+captum
+matplotlib
+numpy
+pillow
+torchinfo
+torchviz
+datasets
+plotly
+tqdm

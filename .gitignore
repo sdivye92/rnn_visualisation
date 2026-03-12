@@ -1,0 +1,6 @@
+saved_models
+**/__pycache__/*
+.venv
+.cursor
+.vscode
+backend/data
